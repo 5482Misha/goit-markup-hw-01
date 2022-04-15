@@ -1,0 +1,114 @@
+.headLine{
+    width: 145px;
+    height: 31px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700px;
+    letter-spacing: .03em;
+}
+.body2{
+    position: absolute;
+    width: 1600px;
+    height: 600px;
+    left: 0;
+    top: 80px;
+    
+    background: #2F303A;
+}
+.button{
+    position: absolute;
+    width: 136px;
+    height: 30px;
+    left: 760px;
+    top: 440px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 16px;
+    line-height: 30px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: .06em;
+
+    color: #FFF;
+
+    position: absolute;
+    width: auto;
+    height: 50px;
+    left: 700px;
+    top: 430px;
+
+    background: #2196F3;
+    box-shadow: 0 4px 4px rgba(0,0,0,.15);
+    border-radius: 4px;
+}
+.team{
+    position: absolute;
+    width: 1600px;
+    height: 648px;
+    left: 0;
+    top: 1449px;
+
+    background: #F5F4FA;
+}
+.person_1{
+    position: absolute;
+    width: 270px;
+    height: 368px;
+    left: 215px;
+  top: 175px;
+
+    background: #FFF;
+
+    box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 1px rgba(0,0,0,.14), 0 2px 1px rgba(0,0,0,.2);
+    border-radius: 0 0 4px 4px;
+}
+.person_2{
+    position: absolute;
+    width: 270px;
+    height: 368px;
+    left: 515px;
+    top: 175px;
+
+    background: #FFF;
+
+    box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 1px rgba(0,0,0,.14), 0 2px 1px rgba(0,0,0,.2);
+    border-radius: 0 0 4px 4px;
+}
+.person_3{
+    position: absolute;
+    width: 270px;
+    height: 368px;
+    left: 815px;
+    top: 175px;
+
+    background: #FFF;
+
+    box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 1px 1px rgba(0,0,0,.14), 0 2px 1px rgba(0,0,0,.2);
+    border-radius: 0 0 4px 4px;
+}
+.person_4{
+    position: absolute;
+    width: 270px;
+    height: 368px;
+    left: 1115px;
+    top: 175px;
+
+    background: #FFF;
+
+    box-shadow: 0 1px 3px rgba(0,0,0,.12), 0px 1px 1px rgba(0,0,0,.14), 0 2px 1px rgba(0,0,0,.2);
+    border-radius: 0 0 4px 4px;
+}
+.conts{
+    position: absolute;
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 2097px;
+
+    background: #2F303A;
+}

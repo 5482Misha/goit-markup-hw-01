@@ -1,0 +1,144 @@
+.test{
+    color: #2196F3;
+}
+.txt1{
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    left: 215px;
+    top: 820px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    
+    letter-spacing: .03em;
+    
+    color: #757575;
+}
+.txt2{
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    left: 515px;
+    top: 820px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+
+    letter-spacing: .03em;
+
+    color: #757575;
+}
+.txt3{
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    left: 815px;
+    top: 820px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+
+    letter-spacing: .03em;
+
+    color: #757575;
+}
+.txt4{
+    position: absolute;
+    width: 270px;
+    height: 75px;
+    left: 1115px;
+    top: 820px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    
+    letter-spacing: .03em;
+    
+    color: #757575;  
+}
+.who_is_this_1{
+    position: absolute;
+    width: 130px;
+    height: 19px;
+    left: 60px;
+    top: 301px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 19px;
+    
+    text-align: center;
+    letter-spacing: .03em;
+    
+    color: #757575;
+}
+.who_is_this_2{
+    position: absolute;
+    width: 147px;
+    height: 19px;
+    left: 60px;
+    top: 301px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 19px;
+
+    text-align: center;
+    letter-spacing: .03em;
+
+    color: #757575;
+}
+.who_is_this_3{
+    position: absolute;
+    width: 76px;
+    height: 19px;
+    left: 90px;
+    top: 301px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 19px;
+
+    text-align: center;
+    letter-spacing: .03em;
+
+    color: #757575;
+
+}
+.who_is_this_4{
+    position: absolute;
+    width: 87px;
+    height: 19px;
+    left: 85px;
+    top: 301px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 19px;
+
+    text-align: center;
+    letter-spacing: .03em;
+
+    color: #757575;
+}

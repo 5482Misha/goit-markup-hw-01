@@ -1,0 +1,174 @@
+.text_Web1{
+    position: absolute;
+    top: 24px;
+    left: 215px;
+    font-size: 26px;
+    line-height: 31px;
+    color: #2196F3;
+}
+.text_Studio1{
+    position: absolute;
+    top: 24px;
+    left: 270px;
+    font-size: 26px;
+    line-height: 31px;
+    color: #000000;
+}
+.studia{
+    position: absolute;
+    width: 49px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: .02em;
+
+    color: #2196F3;
+    
+}
+.portfolio{
+    position: absolute;
+    width: 77px;
+    height: 16px;
+    left: 552px;
+    top: 32px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: .02em;
+
+    color: #212121;
+}
+.contakts{
+
+    position: absolute;
+    width: 68px;
+    height: 16px;
+    left: 679px;
+    top: 32px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: .02em;
+
+    color: #212121;
+}
+.mail1{
+
+    position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: .02em;
+
+    color: #2196F3;
+}
+.tel1{
+    position: absolute;
+    width: 122px;
+    height: 16px;
+    left: 1263px;
+    top: 32px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: .02em;
+
+    color: #757575;
+
+}
+.adress{
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 216px;
+    top: 111px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: .03em;
+
+    color: #FFF;
+}
+.link_3{
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 141px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+
+    letter-spacing: .03em;
+
+    color: rgba(255, 255, 255, .6);
+
+}
+.link_4{
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 171px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: .03em;
+
+    color: rgba(255, 255, 255, .6);
+}
+.span_1{
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 60px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+
+    letter-spacing: .03em;
+    color: #fff;
+}
+.span_2{
+    color: #2196F3;
+    }

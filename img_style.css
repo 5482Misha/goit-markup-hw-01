@@ -1,0 +1,47 @@
+.img_1{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 215px;
+    top: 1061px;
+}
+.img_2{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 615px;
+    top: 1061px;
+}
+.img_3{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 1015px;
+    top: 1061px;
+}
+.worker1{
+    position: absolute;
+    width: 270px;
+    height: 260px;
+
+}
+.worker2{
+    position: absolute;
+    width: 270px;
+    height: 260px;
+
+
+}
+.worker3{
+    position: absolute;
+    width: 270px;
+    height: 260px;
+
+
+}
+.worker4{
+    position: absolute;
+    width: 270px;
+    height: 260px;
+
+}
